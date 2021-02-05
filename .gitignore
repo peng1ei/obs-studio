@@ -7,6 +7,7 @@ Release/
 Debug/
 x64/
 ipch/
+.vs/
 
 tags
 *.swp
